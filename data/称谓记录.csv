@@ -1,0 +1,4 @@
+﻿entry_id,term,period,place,object_id,meaning,source_id
+E1,寺,汉,洛阳,X1,官署,S1
+E2,寺,唐,长安,X2,佛教场所,S2
+E3,宫,先秦,中原,X3,房屋通称,S3
